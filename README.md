@@ -1,5 +1,5 @@
 # Web Applications at Forida Tech
-## React Demos 
+## React Demos by Dr. Fitz aka FitzReacts
 ### ProjectL todolist
 A simple todolist based on Joe Morgan's book on React Examples
 

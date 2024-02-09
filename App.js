@@ -9,7 +9,7 @@ const displayEmojiName = event => alert(event.target.id);
 const emojis = [
     {
         emoji: "😄",
-        name: "test grinning face"
+        name: "grinning face"
     },
     {
         emoji: "🎉",

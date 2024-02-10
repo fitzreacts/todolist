@@ -10,6 +10,6 @@ See textbook here [How to Code in React* e-book](https://assets.digitalocean.com
 
 * Next, choose a location for your project and enter the following:
 * `npx create-react-app todolist`
-* Download the src files from this repository and overwrite the files in your src diretory
+* Download the src files from this repository and overwrite the files in your src directory
 * Enter `npm start` to test your app
 

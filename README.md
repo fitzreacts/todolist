@@ -9,7 +9,9 @@ See textbook here [How to Code in React e-book](https://assets.digitalocean.com/
 **To use this code, make sure node is installed**
 
 * Next, choose a location for your project and enter the following:
-* `npx create-react-app todolist`
+* `npm create vite@latest todolist -- --template react`
+
 * Download the src files from this repository and overwrite the files in your src directory
-* Enter `npm start` to test your app
+* Enter `npm install` to install the packages in your package.json file
+* Enter `npm run dev` to test the application
 
